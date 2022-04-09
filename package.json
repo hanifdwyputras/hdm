@@ -1,0 +1,23 @@
+{
+  "name": "hdm",
+  "version": "1.0.0",
+  "description": "Hanif's Drive Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanifdwyputras/hdm.git"
+  },
+  "author": "Hanif Dwy Putra S <s6ste321s8d91je3@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanifdwyputras/hdm/issues"
+  },
+  "homepage": "https://github.com/hanifdwyputras/hdm#readme",
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
